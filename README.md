@@ -20,8 +20,8 @@
   
 ---
 <div align="center">
-  <a href="https://instagram.com/lucasemanuelms"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:lucas.ufc1310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucasemanuelms" target="_new"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:lucas.ufc1310@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   ![Snake animation](https://github.com/lucasemanuelms/lucasemanuelms/blob/output/github-contribution-grid-snake.svg)
 </div>
